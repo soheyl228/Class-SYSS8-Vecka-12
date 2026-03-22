@@ -290,8 +290,8 @@ var assemblies = [
   {
     "name": "BookstoreApp",
     "classes": [
-      { "name": "BookstoreApp.Book", "rp": "BookstoreApp_Book.html", "cl": 11, "ucl": 0, "cal": 11, "tl": 15, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "BookstoreApp.BookstoreInventory", "rp": "BookstoreApp_BookstoreInventory.html", "cl": 22, "ucl": 3, "cal": 25, "tl": 37, "cb": 3, "tb": 6, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "BookstoreApp.Book", "rp": "BookstoreApp_Book.html", "cl": 13, "ucl": 0, "cal": 13, "tl": 17, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "BookstoreApp.BookstoreInventory", "rp": "BookstoreApp_BookstoreInventory.html", "cl": 29, "ucl": 3, "cal": 32, "tl": 42, "cb": 6, "tb": 12, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
 
